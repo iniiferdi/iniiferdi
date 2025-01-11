@@ -1,16 +1,16 @@
-# 👋 Hi, I’m [Ferdiyanto]!
+# 👋 Hi, I’m Ferdiyanto!
 
 Welcome to my GitHub profile!  
-I’m a passionate [Your Profession/Interest, e.g., Software Developer, Data Enthusiast] who loves creating, learning, and sharing knowledge. 🚀
+I’m a passionate Software Developer who loves creating, learning, and sharing knowledge. 🚀
 
 ---
 
 ## 🌟 About Me
 
-- 💻 *What I do*: [Brief description of your work/field, e.g., "I specialize in building scalable web applications and diving into data science."]
-- 🌱 *Currently learning*: [What you're learning, e.g., "Machine Learning, Docker, or React"]
-- 🤝 *Looking to collaborate on*: [The types of projects you're open to collaborating on]
-- 🎯 *Goals for 2025*: [Your professional or personal goals for the year]
+- 💻 *What I do*: I specialize in building scalable web applications.
+- 🌱 *Currently learning*: Machine Learning, Docker, or React
+- 🤝 *Looking to collaborate on*: -
+- 🎯 *Goals for 2025*: be better
 
 ---
 
@@ -36,8 +36,8 @@ I’m a passionate [Your Profession/Interest, e.g., Software Developer, Data Ent
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://iniiferdi.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akun.ferdiyanto@gmail.com)
 
 ---
 
